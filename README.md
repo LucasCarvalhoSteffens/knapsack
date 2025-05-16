@@ -2,18 +2,6 @@
 
 Este projeto implementa e compara diferentes algoritmos bio-inspirados para resolver o Problema da Mochila 0/1. A implementação inclui quatro algoritmos distintos: Algoritmo Genético (GA), Colônia de Formigas (ACO), Otimização por Enxame de Partículas (PSO) e Algoritmo do Cuckoo (CS).
 
-## 📋 Índice
-
-- [Visão Geral](#visão-geral)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Algoritmos Implementados](#algoritmos-implementados)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Análise de Resultados](#análise-de-resultados)
-- [Testes](#testes)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
-
 ## 🎯 Visão Geral
 
 O Problema da Mochila 0/1 é um problema clássico de otimização combinatória onde, dado um conjunto de itens com pesos e valores, o objetivo é selecionar um subconjunto de itens que maximize o valor total sem exceder uma capacidade máxima.
