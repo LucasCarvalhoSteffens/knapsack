@@ -3,6 +3,9 @@ import time
 from typing import Dict, List, Any
 import pandas as pd
 from tqdm import tqdm
+import sys
+import os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 from utils.problem import KnapsackProblem, generate_random_problem
 from utils.visualization import (plot_convergence, plot_boxplot, 

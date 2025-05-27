@@ -1,5 +1,5 @@
 from typing import Dict, Type
-from .base import BioInspiredAlgorithm
+from algorithms.base import BioInspiredAlgorithm
 from utils.problem import KnapsackProblem
 
 class AlgorithmCatalog:
